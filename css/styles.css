@@ -1,0 +1,29 @@
+table, tr, th {
+    border:1px solid #000;
+}
+
+div {
+    height: 30px;
+     width: 30px;
+
+}
+section {
+    display: block;
+    float: left;
+    border-radius: 40px;
+
+    width: 80%;
+
+
+}
+img {
+    border: 300px;
+    padding: 5px;
+
+}
+button {
+
+}
+li {
+    list-style: none;
+}
